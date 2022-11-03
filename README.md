@@ -1,2 +1,2 @@
-# front-copadomundo
-Front End do repositório CopadoMundo
+# Frontend - Bolão Copa do Mundo
+
